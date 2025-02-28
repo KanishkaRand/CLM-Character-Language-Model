@@ -1,4 +1,4 @@
-# CLM
+# CLM - Character Language Model
 
 ### Character Level Language Model
 
